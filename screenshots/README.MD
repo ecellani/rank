@@ -174,3 +174,4 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | 4 | Entrega |
 | **69** |                          |
 
+lero lero

@@ -107,6 +107,7 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 
 > Relatório de utilização da ferramenta
 
+----------
 ### Usuários que utilizaram a funcionalidade Consultoria ###
 
 | Horas  | Descrição 				|
@@ -124,6 +125,7 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | **87** |                          |
 
 
+----------
 ### Usuários que a permissão de acesso tenha sido concedida ou retirada por outro usuário ###
 
 | Horas  | Descrição 				|
@@ -137,10 +139,11 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | 15 | Controle de hierarquia |
 | 15 | Testes |
 | 4 | Entrega |
-|--------|--------------------------|
+|--------|--------|
 | **87** |                          |
 
 
+----------
 ### Arquivos importados na Consultoria ###
 
 | Horas | Descrição |
@@ -153,10 +156,11 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | 4 | Controle de acesso |
 | 12 | Testes |
 | 4 | Entrega |
-|--------|--------------------------|
+|--------|----------|
 | **69** |                          |
 
 
+----------
 ### Importação de arquivos de imagens dos banners ###
 
 | Horas | Descrição |
@@ -169,6 +173,6 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | 4 | Controle de acesso |
 | 12 | Testes |
 | 4 | Entrega |
-|--------|--------------------------|
+|--------|-----|
 | **69** |                          |
 

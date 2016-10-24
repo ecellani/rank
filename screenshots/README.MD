@@ -8,6 +8,7 @@
 
 Considerando que não faremos a leitura/interpretação do arquivo e tampouco gravação das informações no banco de dados;
 
+----------
 ### Carga do arquivo do Ministério do Trabalho (cadastramento PAT/PCT) ###
 
 | Horas  | Descrição                                                            |
@@ -26,6 +27,7 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | **89** |                                                                      |
 
 
+----------
 ### Carga do arquivo que identifica os estabelecimentos que possuem o programa AVANTE ###
 
 | Horas  | Descrição                                                            |
@@ -44,6 +46,7 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | **89** |                                                                      |
 
 
+----------
 ### Carga do arquivo de Pesquisa ASSERT ###
 
 | Horas  | Descrição                                                            |
@@ -62,6 +65,7 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | **89** |                                                                      |
 
 
+----------
 ### Carga do arquivo de Pesquisa DIEESE ###
 
 | Horas  | Descrição                                                            |
@@ -80,6 +84,7 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | **89** |                                                                      |
 
 
+----------
 ### Importação das imagens dos banners informativos ###
 
 | Horas  | Descrição                                                                                                       |
@@ -91,6 +96,8 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 |  4     | Entrega                                                                                                         |
 | **40** | **IMPORTANTE: Se a administração das imagens não forem feitas pelo Lumis, este item deve ser reestimado**           |
 
+
+----------
 ### DÚVIDAS ###
   * Qualquer usuário pode realizar as funções de carga?                                                       
   * Sabendo que o gerenciamento das imagens serão feitos pelo Lumis, devemos gerar logs? Se sim, então teremos que disponibilizar um serviço de log para que o Lumis possa consumir. Ao conversar sobre este assunto com o Adalto, foi destacado também a necessidade de criar um serviço novo no Lumis, pois o default não é capaz de realizar chamadas REST

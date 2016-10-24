@@ -103,6 +103,8 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
   * Sabendo que o gerenciamento das imagens serão feitos pelo Lumis, devemos gerar logs? Se sim, então teremos que disponibilizar um serviço de log para que o Lumis possa consumir. Ao conversar sobre este assunto com o Adalto, foi destacado também a necessidade de criar um serviço novo no Lumis, pois o default não é capaz de realizar chamadas REST
 
 
+
+
 ## Relatórios ##
 
 > Relatório de utilização da ferramenta
@@ -121,8 +123,7 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | 15     | Controle de hierarquia	|
 | 15     | Testes					|
 | 4      | Entrega					|
-|--------|--------------------------|
-| **87** |                          |
+| **87** |            |
 
 
 ----------
@@ -139,8 +140,7 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | 15 | Controle de hierarquia |
 | 15 | Testes |
 | 4 | Entrega |
-|--------|--------|
-| **87** |                          |
+| **87** |       |
 
 
 ----------
@@ -156,8 +156,7 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | 4 | Controle de acesso |
 | 12 | Testes |
 | 4 | Entrega |
-|--------|----------|
-| **69** |                          |
+| **69** |       |
 
 
 ----------
@@ -173,6 +172,5 @@ Considerando que não faremos a leitura/interpretação do arquivo e tampouco gr
 | 4 | Controle de acesso |
 | 12 | Testes |
 | 4 | Entrega |
-|--------|-----|
 | **69** |                          |
 

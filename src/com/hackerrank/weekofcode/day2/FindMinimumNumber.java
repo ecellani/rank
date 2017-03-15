@@ -12,17 +12,14 @@ import java.util.Scanner;
  */
 public class FindMinimumNumber {
 
-    public static final String METHOD = "min(int, int)";
     public static void main(String... args) {
-        final Scanner in = new Scanner(System.in);
-        final int n = in.nextInt();
-        System.out.println(call(n, METHOD));
+        System.out.println(call(new Scanner(System.in).nextInt(), null));
     }
 
     private static String call(int n, String r) {
+        if (r == null) r = "min(int, int)";
         if (n == 2) return r;
         final int index = r.lastIndexOf("int");
-        final String replacement = METHOD;
-        return call(n - 1, r.substring(0, index) + replacement + r.substring(index + 3));
+        return call(n - 1, r.substring(0, index) + "min(int, int)" + r.substring(index + 3));
     }
 }
